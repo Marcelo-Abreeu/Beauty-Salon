@@ -6,7 +6,7 @@
 
 ## 📝 Descrição 
 
-Um modelo de website Sobre salão de beleza.
+Um modelo de website Sobre salão de beleza. Desenvolvido em um evento do NWL return.
 
 - Versão Final: [Beauty-Salon](https://marcelo-abreeu.github.io/Beauty-Salon/)
 
