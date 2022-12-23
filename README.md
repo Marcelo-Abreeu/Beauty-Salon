@@ -1,6 +1,14 @@
-<p align="center">
-  <img alt="Layout" src="assets/img/preview.jpeg" width="100%">
-</p>
+<h1 align="center">
+  BeautySalon.
+</h1>
+
+<img src="assets/img/preview.jpeg">
+
+## 📝 Descrição 
+
+Um modelo de website Sobre salão de beleza.
+
+- Versão Final: [Beauty-Salon](https://marcelo-abreeu.github.io/Beauty-Salon/)
 
 ## 🚀 Tecnologias
 
@@ -10,12 +18,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-Bibliotecas
+## 📚 Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
 - [SwipeJS](https://github.com/nolimits4web/Swiper)
 - [ScrollReveal](https://scrollrevealjs.org)
 
+
 -----
 
   <h3 align="center"> Developed by <a href="#">Marcelo Abreu</a> ☕</h3>
+  
