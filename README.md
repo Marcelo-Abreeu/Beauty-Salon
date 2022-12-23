@@ -16,15 +16,6 @@ Bibliotecas
 - [SwipeJS](https://github.com/nolimits4web/Swiper)
 - [ScrollReveal](https://scrollrevealjs.org)
 
+-----
 
-## 💻 Projeto
-
------??----
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
----
-
-Developed by Marcelo Abreu 
+  <h3 align="center"> Developed by <a href="#">Marcelo Abreu</a> ☕</h3>
