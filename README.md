@@ -1,5 +1,5 @@
 <h1 align="center">
-  BeautySalon.
+  🧴 BeautySalon
 </h1>
 
 <img src="assets/img/preview.jpeg">
