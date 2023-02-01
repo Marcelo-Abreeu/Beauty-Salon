@@ -2,7 +2,7 @@
   🧴 BeautySalon
 </h1>
 
-<img src="assets/img/ScreenshotSite.png">
+<img src="assets/img/ScreenshotSite.jpeg">
 
 ## 📝 Descrição 
 
